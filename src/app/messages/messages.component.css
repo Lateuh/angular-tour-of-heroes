@@ -1,17 +1,21 @@
-h2 {
-    color: #A80000;
-    font-family: Arial, Helvetica, sans-serif;
+  .history h2 {
+    color: #51A3A3 ;
     font-weight: lighter;
+  }
+
+  .history {
+    font-family: "Hahmlet", sans-serif;
   }
   
   .clear {
-    color: #333;
-    background-color: #eee;
+    color: #DFCC74   ;
+    background-color: #011627 ;
     margin-bottom: 12px;
-    padding: 1rem;
+    padding: 4px;
     border-radius: 4px;
-    font-size: 1rem;
+    font-size: 11px;
   }
+
   .clear:hover {
     color: white;
     background-color: #42545C;
